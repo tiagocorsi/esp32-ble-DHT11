@@ -1,0 +1,2 @@
+site com o exemplo:
+https://www.filipeflop.com/blog/bluetooth-low-energy-com-esp32-e-dht11/
